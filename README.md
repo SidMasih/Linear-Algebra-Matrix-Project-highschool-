@@ -2,7 +2,7 @@
 High school project that preforms matrix operations in either a comand line environment or program that uses the operations directly within its code
 Siddharth (Sid) Masih
 
-#Linear Algebra Matrix Operatons
+#Linear Algebra Matrix Operations
 
 Meant to be extended into other programs where matrix operations would need to be used (also includes a basic command line demo program)
 
