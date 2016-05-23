@@ -1,5 +1,6 @@
-# Linear-Algebra-Matrix-Project-highschool-
-High school project that preforms matrix operations in either a comand line environment or program that uses the operations directly within its code
+# Linear Algebra Operations API
+High school project that preforms matrix operations in either a comand line environment or program that uses the operations directly within its code.  
+Comand line is a placeholder interface and the API should be directly used by whatever uses this API.  
 Siddharth (Sid) Masih
 
 #Linear Algebra Matrix Operations
